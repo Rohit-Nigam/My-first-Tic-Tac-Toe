@@ -47,12 +47,6 @@ This is a beginner-friendly **Tic Tac Toe game** built using **Python** and **Tk
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Acknowledgments
 
 Thanks to the Python community and open-source contributors for inspiration!
